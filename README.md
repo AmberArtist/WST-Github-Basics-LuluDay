@@ -1,5 +1,6 @@
 # WST-Github-Basics-LuluDay
  Repository Practice 
  
-Welcome to my repository that is made for practice
+Hello I am Lulu Day
+This is repository practice for the class.
 
